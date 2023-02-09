@@ -1,0 +1,36 @@
+.container-fluid{
+    background-color: #f6f6f6;
+    min-height: 72px;
+}
+.nav{
+    margin-left: auto;
+    margin-right: auto;
+    height: 72px;
+    padding: 0 14px 0 29px;
+    display: flex;
+    align-items: center;
+}
+.img-logo{
+    display: block;
+    height: 27px;
+    width: 144px;
+}
+
+.started{
+    align-items: center;
+    background-color: transparent;
+    border: 1px solid #2015ff;
+    box-shadow: none;
+    color: #2015ff;
+    display: flex;
+    font-size: 1rem;
+    font-weight: 700;
+    height: 40px!important;
+    justify-content: center;
+    letter-spacing: 0;
+    min-width: 150px;
+    text-transform: none;
+    width: unset;
+    text-decoration: none;
+    border-radius: 5px ;
+}
