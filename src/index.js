@@ -9,6 +9,9 @@ import "./css/signin.css";
 // import '../node_modules/font-awesome/css/font-awesome.min.css';
 import "./css/Explore.css";
 import "./css/Card.css";
+import "./css/Transformation.css";
+import "./css/Competency.css";
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

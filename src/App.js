@@ -7,6 +7,8 @@ import Signin from './pages/Signin';
 import Explore from './pages/Explore';
 import  Card  from './pages/Card';
 import Signup from './pages/Signup';
+import Transformation from './pages/Transformation';
+import Competency from './pages/Competency';
 
 function App() {
   return (
@@ -20,6 +22,10 @@ function App() {
       <Route exact path="/Explore" element={<Explore/>} />
       <Route exact path="/card" element={<Card/>} />
       <Route exact path="/signup" element={<Signup/>} />
+      <Route exact path="/transformation" element={<Transformation/>} />
+      <Route exact path="/competency" element={<Competency/>} />
+
+
 
 
 

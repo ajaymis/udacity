@@ -1,0 +1,129 @@
+.padding{
+    
+    padding-top: var(--padding-length--mobile,var(--padding-length--desktop,0));
+}
+
+
+
+
+
+
+.fig-container{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 73.75rem;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.mob-header{
+    margin: 0 auto;
+    max-width: 640px;
+}
+.mh{
+    color: #0b0b0b;
+    font-family: PolySans,sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 2.925rem;
+    margin-bottom: 1rem;
+}
+.p-header{
+    color: #0b0b0b;
+    font-size: 1rem;
+    line-height: 1.625rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: .875rem;
+    font-weight: 400;
+    margin-bottom: 24px;
+    margin-top: 0;
+}
+.tr-link{
+    border-bottom: 1px solid #2015ff;
+    color: #2015ff;
+    font-weight: 700;
+   
+}
+
+a {
+  
+    color:  #2015ff;
+    text-decoration: none;
+    transition: color .3s ease;
+}
+.span{
+    font-family: PolySans,sans-serif;
+    font-size: .875rem;
+    font-weight: 500;
+}
+.figure-layout{
+    align-items: center;
+    display: flex;
+    flex-direction: var(--mobile-flex-dir,column-reverse);
+    margin: 0 auto;
+    max-width: 640px;
+    padding-top: 2rem;
+}
+.img-back{
+    height: 388px;
+    position: relative;
+    width: 342px;
+}
+.collaps{
+    color: #2015ff;
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.375rem;
+    margin-bottom: 0.5rem;
+}
+.column{
+    max-width: 100%;
+}
+.background-img{
+    /* height: 388px;
+    position: relative;
+    width: 342px; */
+}
+.img-bg{
+    height: 100%;
+    margin-left: -50px;
+    margin-top: -100px;
+   
+    object-fit: contain;
+    /* width: 450px; */
+    max-width: 100%;
+}
+.buttons{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.workshop{
+
+    color: #2015ff;
+    opacity: 1;
+    appearance: none;
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 5px 5px 30px 0 rgb(0 0 0 / 15%);
+    
+    font-size: .875rem;
+    font-weight: 600;
+    height: 60px;
+    letter-spacing: 0;
+   
+    overflow: hidden;
+    padding: 0 0 0 20px;
+    position: absolute;
+    text-transform: none;
+    width: 170px;
+    left: 0;
+    top: 28px;
+
+   
+ 
+
+}
