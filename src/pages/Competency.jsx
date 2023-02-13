@@ -27,22 +27,25 @@ const Competency = () => {
       </Col>
     </Row>
 
+    <div className="logo">
+        <h3 className='job-head text-center'><strong>Job-ready talent. Superior outcomes.</strong></h3>
     <Row className='footer-icon mt-5 '>
      
-      <Col className='ico' span={6}>
-        <img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7i0vIvSYhBZpPXzaJCHaBn/50bfa1e2b52653aa76a8c413ae5e0f28/icon-curriculum.svg" alt="" />
-      <p className='icon-para mt-3'>Curriculum co-created with industry leaders</p>  
-        </Col>
-      <Col className='ico' span={6}>
-        <img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/zh6jYZi3xGa6a9yRZdMat/672eaa6d90f82bcf8b2bb36dab1cfc79/icon-feedback.svg" alt="" />
-        <p className='icon-para mt-3'>Personalized feedback ensures mastery</p> 
-      </Col>
-      <Col className='ico' span={6}><img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5eLSyxIAS3Fb9CXRkYGg4u/1c23e9f28d5eaa1edc57f1532ecb8331/icon-projects.svg" alt="" />
-      <p className='icon-para mt-3'>Hands-on projects, not step-by-step guides</p> 
-      </Col>
-      <Col className='ico' span={6}><img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4r0jrCI7BjgLYRb8vPFgJl/62a8348809aa327099c0e553f305034d/icon-expert-network.svg" alt="" />
-      <p className='icon-para mt-3'>1,400+ highly vetted expert network</p> </Col>
-    </Row>
+     <Col className='ico' span={6}>
+       <img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7i0vIvSYhBZpPXzaJCHaBn/50bfa1e2b52653aa76a8c413ae5e0f28/icon-curriculum.svg" alt="" />
+     <p className='icon-para mt-3'>Curriculum co-created with industry leaders</p>  
+       </Col>
+     <Col className='ico' span={6}>
+       <img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/zh6jYZi3xGa6a9yRZdMat/672eaa6d90f82bcf8b2bb36dab1cfc79/icon-feedback.svg" alt="" />
+       <p className='icon-para mt-3'>Personalized feedback ensures mastery</p> 
+     </Col>
+     <Col className='ico' span={6}><img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5eLSyxIAS3Fb9CXRkYGg4u/1c23e9f28d5eaa1edc57f1532ecb8331/icon-projects.svg" alt="" />
+     <p className='icon-para mt-3'>Hands-on projects, not step-by-step guides</p> 
+     </Col>
+     <Col className='ico' span={6}><img src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4r0jrCI7BjgLYRb8vPFgJl/62a8348809aa327099c0e553f305034d/icon-expert-network.svg" alt="" />
+     <p className='icon-para mt-3'>1,400+ highly vetted expert network</p> </Col>
+   </Row>
+    </div>
 
         </div>
     </div>

@@ -11,6 +11,8 @@ import "./css/Explore.css";
 import "./css/Card.css";
 import "./css/Transformation.css";
 import "./css/Competency.css";
+import "./css/Logo.css";
+import "./css/Banner.css";
 
 
 
