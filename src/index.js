@@ -13,6 +13,7 @@ import "./css/Transformation.css";
 import "./css/Competency.css";
 import "./css/Logo.css";
 import "./css/Banner.css";
+import "./css/Footer.css";
 
 
 
